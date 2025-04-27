@@ -1,0 +1,9 @@
+# Compiled binary
+main
+
+# Environment variables file
+.env*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
